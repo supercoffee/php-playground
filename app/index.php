@@ -24,5 +24,7 @@
     </div>
     <button type="submit">Submit</button>
 </form>
+
+<a href="/notes">Go to my notes</a>
 </body>
 </html>

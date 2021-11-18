@@ -10,3 +10,4 @@ services:
       - '8888:8888'
     volumes:
       - ./app:/var/www/html
+      - ./app-data:/app-data
